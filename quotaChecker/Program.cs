@@ -77,8 +77,8 @@ namespace quotaChecker
             Console.WriteLine("quotaChecker.exe $PATH $WARNING $CRITICAL");
             Console.WriteLine();
             Console.WriteLine("$PATH -> C:\\Folder");
-            Console.WriteLine("$WARNING -> 90 (90% space left)");
-            Console.WriteLine("$CRITICAL -> 95 (95% space left)");
+            Console.WriteLine("$WARNING -> 90 (90% space used)");
+            Console.WriteLine("$CRITICAL -> 95 (95% space used)");
             Console.WriteLine();
             Console.WriteLine("quotaChecker.exe C:\\Folder 90 95");
             Console.WriteLine();
