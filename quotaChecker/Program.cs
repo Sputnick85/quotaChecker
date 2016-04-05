@@ -47,7 +47,7 @@ namespace quotaChecker
                 (limit * (warning / 100)).ToString("F0", enUS) + ";" +
                 (limit * (critical / 100)).ToString("F0", enUS);
             if (used >= (limit * (critical / 100))) {
-                PrintOutput(2, path, usageToLimit, perfdata);args
+                PrintOutput(2, path, usageToLimit, perfdata);
                 Console.WriteLine();
                 Environment.Exit(2);
             }
