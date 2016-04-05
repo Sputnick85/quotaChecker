@@ -7,7 +7,9 @@ Usage of quotaChecker:
 quotaChecker.exe $PATH $WARNING $CRITICAL
 
 $PATH -> C:\Folder 
+
 $WARNING -> 90 (90% space used) 
+
 $CRITICAL -> 95 (95% space used)
 
 quotaChecker.exe C:\Folder 90 95");
