@@ -1,6 +1,7 @@
 This is a small Nagiosplugin which should help you checking your quotas. It provides performancedata.
 
 FS-Resource-Manager must be installed.
+.NET Framework 4.5.2 must be installed.
 
 Usage of quotaChecker:
 
