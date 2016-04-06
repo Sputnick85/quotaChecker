@@ -15,3 +15,5 @@ $CRITICAL -> 95 (95% space used)
 quotaChecker.exe C:\Folder 90 95
 
 Output -> OK - c:\folder -> 6,79GB/35,00GB | 'c:\folder'=6957MB;32256;34048
+
+Get the binarys from SourcForge https://sourceforge.net/projects/quotachecker/files/
